@@ -1,10 +1,6 @@
 - 👋 Hi, I’m @rajujena0
-- 👀 I’m interested in ...Coding
-- 🌱 I’m currently learning ...Java
-- 💞️ I’m looking for a Job in...IT sector
-- 📫 How to reach me ...
+- 👀 I’m interested in ...Coding and deployments.
+- 🌱 I’m currently working as a DevOps Engineer at Software Industry I have over 3 years of Experiences.
+- 💞️ I’m looking for a oppertunities in a Product based Company
+- 📫 How to reach me ...jenaraju13@gmail.com
 
-<!---
-rajujena0/rajujena0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
